@@ -15,23 +15,22 @@ def RandomUserAgents():
 
 ua = RandomUserAgents()
 
-# proxy = {"http": "http://username:p3ssw0rd@10.10.1.10:3128"}
-
 headers = {
     "Connection" : "close",  # another way to cover tracks
     "User-Agent" : ua}
 
-w = copy(open_workbook('DL_Magazine_URLs_Padding0.xls'))
-
 file = open('ids.txt')
 lines = file.readlines()
 
-for i in range(0,len(lines)):
+for i in range(len(lines)-1,0, -1):
     if(lines[i].strip()!= ""):
-        print(lines[i].strip());
+
+        print(lines[i]);
         try:
             time.sleep(4)
-            req = Request('http://dl.acm.org/citation.cfm?id=' + lines[i].strip(), headers=headers)#1965725
+            url = 'http://dl.acm.org/citation.cfm?id=' + str(lines[i]).strip()
+            print(url)
+            req = Request(url, headers=headers)
             htmlfile = urlopen(req)
             soup = BeautifulSoup(htmlfile, "html.parser")
             temp = soup.find('a', {"name": "FullTextPDF"})['href']
@@ -41,9 +40,14 @@ for i in range(0,len(lines)):
             time.sleep(4)
             req = Request(address, headers={'User-Agent': 'chrome'})
             response = urlopen(req)
+            text = response.read()
             file = open("document.pdf", 'wb')
-            file.write(response.read())
+            file.write(text)
             file.close()
+            s = str(lines[i]).strip()+".pdf"
+            file1 = open("pdfs/"+s, 'wb')
+            file1.write(text)
+            file1.close()
 
             pdf_file = open("document.pdf", 'rb')
             read_pdf = PyPDF2.PdfFileReader(pdf_file)
@@ -55,11 +59,18 @@ for i in range(0,len(lines)):
             firebaseR = firebase.FirebaseApplication('https://pique-fa32e.firebaseio.com/')
             result = firebaseR.put('/ResearchPapers_FullText', lines[i].strip(), page_content)
             print(page_content)
-        except:
-            # address = "http://delivery.acm.org/10.1145/1970000/1965725/p5-vardi.pdf?ip=152.15.236.134&id=1965725&acc=OPEN&key=A79D83B43E50B5B8%2E48786266F2419CCD%2E4D4702B0C3E38B35%2E7BDEF374746A56FB&CFID=745020279&CFTOKEN=36770104&__acm__=1490888820_cda4f94c6173722e0411de005b5bf9a7"
-            # time.sleep(4)
-            # req = Request(address, headers={'User-Agent': 'chrome'})
-            # response = urlopen(req)
-            print("Problem with ID :"+lines[i].strip())
+            with open("Output.txt", "a") as text_file:
+                text_file.write("Executed: %s\t" % lines[i].strip())
+                text_file.write("i: %s\n" % i)
+        except Exception as e:
+            print("Problem with ID : "+str(lines[i]) +": "+ str(e))
+            print(str(e))
+            with open("Errors.txt", "a") as text_file:
+                text_file.write("Error: %s" % str(lines[i]))
+                text_file.write("i: %s\n" % i)
+                text_file.write("Exception: %s\n" % str(e))
+
     else :
         print(lines[i]);
+
+file.close();
