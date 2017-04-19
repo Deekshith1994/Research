@@ -1,0 +1,2100 @@
+Error: 332240
+i: 10086
+Exception: 'NoneType' object is not subscriptable
+Error: 332236
+i: 10076
+Exception: 'NoneType' object is not subscriptable
+Error: 332232
+i: 10064
+Exception: 'NoneType' object is not subscriptable
+Error: 197897
+i: 10055
+Exception: 'NoneType' object is not subscriptable
+Error: 332217
+i: 10043
+Exception: 'NoneType' object is not subscriptable
+Error: 332196
+i: 10031
+Exception: 'NoneType' object is not subscriptable
+Error: 332194
+i: 10030
+Exception: 'NoneType' object is not subscriptable
+Error: 332179
+i: 10019
+Exception: 'NoneType' object is not subscriptable
+Error: 332167
+i: 10008
+Exception: 'NoneType' object is not subscriptable
+Error: 332166
+i: 10007
+Exception: 'NoneType' object is not subscriptable
+Error: 332165
+i: 10006
+Exception: 'NoneType' object is not subscriptable
+Error: 332164
+i: 10005
+Exception: 'NoneType' object is not subscriptable
+Error: 332163
+i: 10004
+Exception: 'NoneType' object is not subscriptable
+Error: 332162
+i: 10003
+Exception: 'NoneType' object is not subscriptable
+Error: 332161
+i: 10002
+Exception: 'NoneType' object is not subscriptable
+Error: 332160
+i: 10001
+Exception: 'NoneType' object is not subscriptable
+Error: 332158
+i: 10000
+Exception: 'NoneType' object is not subscriptable
+Error: 332147
+i: 9990
+Exception: 'NoneType' object is not subscriptable
+Error: 332130
+i: 9979
+Exception: 'NoneType' object is not subscriptable
+Error: 332125
+i: 9971
+Exception: 'NoneType' object is not subscriptable
+Error: 332118
+i: 9962
+Exception: 'NoneType' object is not subscriptable
+Error: 332108
+i: 9952
+Exception: 'NoneType' object is not subscriptable
+Error: 332096
+i: 9946
+Exception: 'NoneType' object is not subscriptable
+Error: 332934
+i: 9929
+Exception: 'NoneType' object is not subscriptable
+Error: 331677
+i: 9900
+Exception: 'NoneType' object is not subscriptable
+Error: 331676
+i: 9899
+Exception: 'NoneType' object is not subscriptable
+Error: 333114
+i: 9883
+Exception: 'NoneType' object is not subscriptable
+Error: 334422
+i: 9591
+Exception: 'NoneType' object is not subscriptable
+Error: 334420
+i: 9590
+Exception: 'NoneType' object is not subscriptable
+Error: 334409
+i: 9589
+Exception: 'NoneType' object is not subscriptable
+Error: 334406
+i: 9588
+Exception: 'NoneType' object is not subscriptable
+Error: 334405
+i: 9587
+Exception: 'NoneType' object is not subscriptable
+Error: 334403
+i: 9586
+Exception: 'NoneType' object is not subscriptable
+Error: 334402
+i: 9585
+Exception: 'NoneType' object is not subscriptable
+Error: 334401
+i: 9584
+Exception: 'NoneType' object is not subscriptable
+Error: 334399
+i: 9583
+Exception: 'NoneType' object is not subscriptable
+Error: 334480
+i: 9582
+Exception: 'NoneType' object is not subscriptable
+Error: 334478
+i: 9581
+Exception: 'NoneType' object is not subscriptable
+Error: 334476
+i: 9580
+Exception: 'NoneType' object is not subscriptable
+Error: 334468
+i: 9579
+Exception: 'NoneType' object is not subscriptable
+Error: 334464
+i: 9578
+Exception: 'NoneType' object is not subscriptable
+Error: 334462
+i: 9577
+Exception: 'NoneType' object is not subscriptable
+Error: 334460
+i: 9576
+Exception: 'NoneType' object is not subscriptable
+Error: 334454
+i: 9575
+Exception: 'NoneType' object is not subscriptable
+Error: 334452
+i: 9574
+Exception: 'NoneType' object is not subscriptable
+Error: 334449
+i: 9573
+Exception: 'NoneType' object is not subscriptable
+Error: 334443
+i: 9572
+Exception: 'NoneType' object is not subscriptable
+Error: 334441
+i: 9571
+Exception: 'NoneType' object is not subscriptable
+Error: 334434
+i: 9570
+Exception: 'NoneType' object is not subscriptable
+Error: 334428
+i: 9569
+Exception: 'NoneType' object is not subscriptable
+Error: 334537
+i: 9568
+Exception: 'NoneType' object is not subscriptable
+Error: 334533
+i: 9567
+Exception: 'NoneType' object is not subscriptable
+Error: 334527
+i: 9566
+Exception: 'NoneType' object is not subscriptable
+Error: 334517
+i: 9565
+Exception: 'NoneType' object is not subscriptable
+Error: 334515
+i: 9564
+Exception: 'NoneType' object is not subscriptable
+Error: 334508
+i: 9563
+Exception: 'NoneType' object is not subscriptable
+Error: 334506
+i: 9562
+Exception: 'NoneType' object is not subscriptable
+Error: 334501
+i: 9561
+Exception: 'NoneType' object is not subscriptable
+Error: 334499
+i: 9560
+Exception: 'NoneType' object is not subscriptable
+Error: 334491
+i: 9559
+Exception: 'NoneType' object is not subscriptable
+Error: 334490
+i: 9558
+Exception: 'NoneType' object is not subscriptable
+Error: 334486
+i: 9557
+Exception: 'NoneType' object is not subscriptable
+Error: 337254
+i: 9556
+Exception: 'NoneType' object is not subscriptable
+Error: 337252
+i: 9555
+Exception: 'NoneType' object is not subscriptable
+Error: 337250
+i: 9554
+Exception: 'NoneType' object is not subscriptable
+Error: 342022
+i: 9553
+Exception: 'NoneType' object is not subscriptable
+Error: 342020
+i: 9552
+Exception: 'NoneType' object is not subscriptable
+Error: 341846
+i: 9551
+Exception: 'NoneType' object is not subscriptable
+Error: 336232
+i: 9550
+Exception: 'NoneType' object is not subscriptable
+Error: 336231
+i: 9549
+Exception: 'NoneType' object is not subscriptable
+Error: 336230
+i: 9548
+Exception: 'NoneType' object is not subscriptable
+Error: 336229
+i: 9547
+Exception: 'NoneType' object is not subscriptable
+Error: 341844
+i: 9546
+Exception: 'NoneType' object is not subscriptable
+Error: 341843
+i: 9545
+Exception: 'NoneType' object is not subscriptable
+Error: 341842
+i: 9544
+Exception: 'NoneType' object is not subscriptable
+Error: 341840
+i: 9543
+Exception: 'NoneType' object is not subscriptable
+Error: 341838
+i: 9542
+Exception: 'NoneType' object is not subscriptable
+Error: 341837
+i: 9541
+Exception: 'NoneType' object is not subscriptable
+Error: 342331
+i: 9540
+Exception: 'NoneType' object is not subscriptable
+Error: 342328
+i: 9539
+Exception: 'NoneType' object is not subscriptable
+Error: 342326
+i: 9538
+Exception: 'NoneType' object is not subscriptable
+Error: 341500
+i: 9537
+Exception: 'NoneType' object is not subscriptable
+Error: 341499
+i: 9536
+Exception: 'NoneType' object is not subscriptable
+Error: 339338
+i: 9535
+Exception: 'NoneType' object is not subscriptable
+Error: 339335
+i: 9534
+Exception: 'NoneType' object is not subscriptable
+Error: 339334
+i: 9533
+Exception: 'NoneType' object is not subscriptable
+Error: 338625
+i: 9532
+Exception: 'NoneType' object is not subscriptable
+Error: 338624
+i: 9531
+Exception: 'NoneType' object is not subscriptable
+Error: 338623
+i: 9530
+Exception: 'NoneType' object is not subscriptable
+Error: 346409
+i: 9529
+Exception: 'NoneType' object is not subscriptable
+Error: 346406
+i: 9528
+Exception: 'NoneType' object is not subscriptable
+Error: 345503
+i: 9527
+Exception: 'NoneType' object is not subscriptable
+Error: 346413
+i: 9526
+Exception: 'NoneType' object is not subscriptable
+Error: 345501
+i: 9525
+Exception: 'NoneType' object is not subscriptable
+Error: 345499
+i: 9524
+Exception: 'NoneType' object is not subscriptable
+Error: 345497
+i: 9523
+Exception: 'NoneType' object is not subscriptable
+Error: 345496
+i: 9522
+Exception: 'NoneType' object is not subscriptable
+Error: 350996
+i: 9521
+Exception: 'NoneType' object is not subscriptable
+Error: 350995
+i: 9520
+Exception: 'NoneType' object is not subscriptable
+Error: 350994
+i: 9519
+Exception: 'NoneType' object is not subscriptable
+Error: 348796
+i: 9518
+Exception: 'NoneType' object is not subscriptable
+Error: 348795
+i: 9517
+Exception: 'NoneType' object is not subscriptable
+Error: 348794
+i: 9516
+Exception: 'NoneType' object is not subscriptable
+Error: 348792
+i: 9515
+Exception: 'NoneType' object is not subscriptable
+Error: 348789
+i: 9514
+Exception: 'NoneType' object is not subscriptable
+Error: 348776
+i: 9513
+Exception: 'NoneType' object is not subscriptable
+Error: 348786
+i: 9512
+Exception: 'NoneType' object is not subscriptable
+Error: 348785
+i: 9511
+Exception: 'NoneType' object is not subscriptable
+Error: 348784
+i: 9510
+Exception: 'NoneType' object is not subscriptable
+Error: 348788
+i: 9509
+Exception: 'NoneType' object is not subscriptable
+Error: 348775
+i: 9508
+Exception: 'NoneType' object is not subscriptable
+Error: 348774
+i: 9507
+Exception: 'NoneType' object is not subscriptable
+Error: 347647
+i: 9506
+Exception: 'NoneType' object is not subscriptable
+Error: 347645
+i: 9505
+Exception: 'NoneType' object is not subscriptable
+Error: 347643
+i: 9504
+Exception: 'NoneType' object is not subscriptable
+Error: 347640
+i: 9503
+Exception: 'NoneType' object is not subscriptable
+Error: 352538
+i: 9502
+Exception: 'NoneType' object is not subscriptable
+Error: 352537
+i: 9501
+Exception: 'NoneType' object is not subscriptable
+Error: 351845
+i: 9500
+Exception: 'NoneType' object is not subscriptable
+Error: 351846
+i: 9499
+Exception: 'NoneType' object is not subscriptable
+Error: 351309
+i: 9498
+Exception: 'NoneType' object is not subscriptable
+Error: 351308
+i: 9497
+Exception: 'NoneType' object is not subscriptable
+Error: 351307
+i: 9496
+Exception: 'NoneType' object is not subscriptable
+Error: 354572
+i: 9495
+Exception: 'NoneType' object is not subscriptable
+Error: 354571
+i: 9494
+Exception: 'NoneType' object is not subscriptable
+Error: 354569
+i: 9493
+Exception: 'NoneType' object is not subscriptable
+Error: 354568
+i: 9492
+Exception: 'NoneType' object is not subscriptable
+Error: 353883
+i: 9491
+Exception: 'NoneType' object is not subscriptable
+Error: 353882
+i: 9490
+Exception: 'NoneType' object is not subscriptable
+Error: 353169
+i: 9489
+Exception: 'NoneType' object is not subscriptable
+Error: 353167
+i: 9488
+Exception: 'NoneType' object is not subscriptable
+Error: 353166
+i: 9487
+Exception: 'NoneType' object is not subscriptable
+Error: 355457
+i: 9486
+Exception: 'NoneType' object is not subscriptable
+Error: 355456
+i: 9485
+Exception: 'NoneType' object is not subscriptable
+Error: 355454
+i: 9484
+Exception: 'NoneType' object is not subscriptable
+Error: 355453
+i: 9483
+Exception: 'NoneType' object is not subscriptable
+Error: 355135
+i: 9482
+Exception: 'NoneType' object is not subscriptable
+Error: 355134
+i: 9481
+Exception: 'NoneType' object is not subscriptable
+Error: 355133
+i: 9480
+Exception: 'NoneType' object is not subscriptable
+Error: 763714
+i: 9479
+Exception: 'NoneType' object is not subscriptable
+Error: 763713
+i: 9478
+Exception: 'NoneType' object is not subscriptable
+Error: 357520
+i: 9477
+Exception: 'NoneType' object is not subscriptable
+Error: 357519
+i: 9476
+Exception: 'NoneType' object is not subscriptable
+Error: 356505
+i: 9475
+Exception: 'NoneType' object is not subscriptable
+Error: 356504
+i: 9474
+Exception: 'NoneType' object is not subscriptable
+Error: 363127
+i: 9473
+Exception: 'NoneType' object is not subscriptable
+Error: 363125
+i: 9472
+Exception: 'NoneType' object is not subscriptable
+Error: 363118
+i: 9471
+Exception: 'NoneType' object is not subscriptable
+Error: 361341
+i: 9470
+Exception: 'NoneType' object is not subscriptable
+Error: 361340
+i: 9469
+Exception: 'NoneType' object is not subscriptable
+Error: 361884
+i: 9468
+Exception: 'NoneType' object is not subscriptable
+Error: 361881
+i: 9467
+Exception: 'NoneType' object is not subscriptable
+Error: 359429
+i: 9466
+Exception: 'NoneType' object is not subscriptable
+Error: 359428
+i: 9465
+Exception: 'NoneType' object is not subscriptable
+Error: 358979
+i: 9464
+Exception: 'NoneType' object is not subscriptable
+Error: 358977
+i: 9463
+Exception: 'NoneType' object is not subscriptable
+Error: 358976
+i: 9462
+Exception: 'NoneType' object is not subscriptable
+Error: 367872
+i: 9461
+Exception: 'NoneType' object is not subscriptable
+Error: 367871
+i: 9460
+Exception: 'NoneType' object is not subscriptable
+Error: 367869
+i: 9459
+Exception: 'NoneType' object is not subscriptable
+Error: 364044
+i: 9458
+Exception: 'NoneType' object is not subscriptable
+Error: 1613662
+i: 9457
+Exception: 'NoneType' object is not subscriptable
+Error: 1862155
+i: 9456
+Exception: 'NoneType' object is not subscriptable
+Error: 370132
+i: 9455
+Exception: 'NoneType' object is not subscriptable
+Error: 370131
+i: 9454
+Exception: 'NoneType' object is not subscriptable
+Error: 368923
+i: 9453
+Exception: 'NoneType' object is not subscriptable
+Error: 367888
+i: 9452
+Exception: 'NoneType' object is not subscriptable
+Error: 367886
+i: 9451
+Exception: 'NoneType' object is not subscriptable
+Error: 367874
+i: 9450
+Exception: 'NoneType' object is not subscriptable
+Error: 367875
+i: 9449
+Exception: 'NoneType' object is not subscriptable
+Error: 373870
+i: 9448
+Exception: 'NoneType' object is not subscriptable
+Error: 373867
+i: 9447
+Exception: 'NoneType' object is not subscriptable
+Error: 373872
+i: 9446
+Exception: 'NoneType' object is not subscriptable
+Error: 384263
+i: 9445
+Exception: 'NoneType' object is not subscriptable
+Error: 372047
+i: 9444
+Exception: 'NoneType' object is not subscriptable
+Error: 377427
+i: 9443
+Exception: 'NoneType' object is not subscriptable
+Error: 377426
+i: 9442
+Exception: 'NoneType' object is not subscriptable
+Error: 376626
+i: 9441
+Exception: 'NoneType' object is not subscriptable
+Error: 375969
+i: 9440
+Exception: 'NoneType' object is not subscriptable
+Error: 375967
+i: 9439
+Exception: 'NoneType' object is not subscriptable
+Error: 763890
+i: 9438
+Exception: 'NoneType' object is not subscriptable
+Error: 1613682
+i: 9437
+Exception: 'NoneType' object is not subscriptable
+Error: 1860545
+i: 9436
+Exception: 'NoneType' object is not subscriptable
+Error: 375349
+i: 9435
+Exception: 'NoneType' object is not subscriptable
+Error: 380745
+i: 9434
+Exception: 'NoneType' object is not subscriptable
+Error: 381363
+i: 9433
+Exception: 'NoneType' object is not subscriptable
+Error: 378785
+i: 9432
+Exception: 'NoneType' object is not subscriptable
+Error: 378114
+i: 9431
+Exception: 'NoneType' object is not subscriptable
+Error: 378113
+i: 9430
+Exception: 'NoneType' object is not subscriptable
+Error: 501272
+i: 9428
+Exception: 'NoneType' object is not subscriptable
+Error: 501271
+i: 9426
+Exception: 'NoneType' object is not subscriptable
+Error: 763896
+i: 9425
+Exception: 'NoneType' object is not subscriptable
+Error: 501242
+i: 9424
+Exception: 'NoneType' object is not subscriptable
+Error: 501241
+i: 9423
+Exception: 'NoneType' object is not subscriptable
+Error: 381355
+i: 9422
+Exception: 'NoneType' object is not subscriptable
+Error: 381353
+i: 9421
+Exception: 'NoneType' object is not subscriptable
+Error: 501293
+i: 9420
+Exception: 'NoneType' object is not subscriptable
+Error: 501290
+i: 9419
+Exception: 'NoneType' object is not subscriptable
+Error: 501276
+i: 9418
+Exception: 'NoneType' object is not subscriptable
+Error: 501275
+i: 9417
+Exception: 'NoneType' object is not subscriptable
+Error: 501303
+i: 9416
+Exception: 'NoneType' object is not subscriptable
+Error: 501300
+i: 9415
+Exception: 'NoneType' object is not subscriptable
+Error: 501297
+i: 9414
+Exception: 'NoneType' object is not subscriptable
+Error: 501296
+i: 9413
+Exception: 'NoneType' object is not subscriptable
+Error: 501287
+i: 9412
+Exception: 'NoneType' object is not subscriptable
+Error: 763746
+i: 9411
+Exception: 'NoneType' object is not subscriptable
+Error: 763745
+i: 9410
+Exception: 'NoneType' object is not subscriptable
+Error: 501280
+i: 9408
+Exception: 'NoneType' object is not subscriptable
+Error: 501279
+i: 9407
+Exception: 'NoneType' object is not subscriptable
+Error: 501309
+i: 9406
+Exception: 'NoneType' object is not subscriptable
+Error: 501306
+i: 9405
+Exception: 'NoneType' object is not subscriptable
+Error: 763898
+i: 9404
+Exception: 'NoneType' object is not subscriptable
+Error: 763892
+i: 9403
+Exception: 'NoneType' object is not subscriptable
+Error: 763743
+i: 9402
+Exception: 'NoneType' object is not subscriptable
+Error: 763742
+i: 9401
+Exception: 'NoneType' object is not subscriptable
+Error: 763894
+i: 9400
+Exception: 'NoneType' object is not subscriptable
+Error: 763899
+i: 9399
+Exception: 'NoneType' object is not subscriptable
+Error: 503353
+i: 9398
+Exception: 'NoneType' object is not subscriptable
+Error: 503352
+i: 9397
+Exception: 'NoneType' object is not subscriptable
+Error: 503119
+i: 9396
+Exception: 'NoneType' object is not subscriptable
+Error: 503118
+i: 9395
+Exception: 'NoneType' object is not subscriptable
+Error: 763901
+i: 9394
+Exception: 'NoneType' object is not subscriptable
+Error: 763902
+i: 9393
+Exception: 'NoneType' object is not subscriptable
+Error: 504691
+i: 9392
+Exception: 'NoneType' object is not subscriptable
+Error: 504690
+i: 9391
+Exception: 'NoneType' object is not subscriptable
+Error: 504687
+i: 9390
+Exception: 'NoneType' object is not subscriptable
+Error: 504686
+i: 9389
+Exception: 'NoneType' object is not subscriptable
+Error: 763904
+i: 9388
+Exception: 'NoneType' object is not subscriptable
+Error: 763905
+i: 9387
+Exception: 'NoneType' object is not subscriptable
+Error: 763908
+i: 9386
+Exception: 'NoneType' object is not subscriptable
+Error: 763907
+i: 9385
+Exception: 'NoneType' object is not subscriptable
+Error: 763914
+i: 9384
+Exception: 'NoneType' object is not subscriptable
+Error: 763751
+i: 9383
+Exception: 'NoneType' object is not subscriptable
+Error: 763912
+i: 9382
+Exception: 'NoneType' object is not subscriptable
+Error: 763910
+i: 9381
+Exception: 'NoneType' object is not subscriptable
+Error: 512528
+i: 9380
+Exception: 'NoneType' object is not subscriptable
+Error: 512527
+i: 9379
+Exception: 'NoneType' object is not subscriptable
+Error: 512518
+i: 9378
+Exception: 'NoneType' object is not subscriptable
+Error: 512515
+i: 9377
+Exception: 'NoneType' object is not subscriptable
+Error: 512514
+i: 9376
+Exception: 'NoneType' object is not subscriptable
+Error: 763916
+i: 9375
+Exception: 'NoneType' object is not subscriptable
+Error: 763753
+i: 9374
+Exception: 'NoneType' object is not subscriptable
+Error: 763754
+i: 9373
+Exception: 'NoneType' object is not subscriptable
+Error: 763749
+i: 9372
+Exception: 'NoneType' object is not subscriptable
+Error: 763748
+i: 9371
+Exception: 'NoneType' object is not subscriptable
+Error: 764013
+i: 9370
+Exception: 'NoneType' object is not subscriptable
+Error: 512574
+i: 9369
+Exception: 'NoneType' object is not subscriptable
+Error: 512571
+i: 9368
+Exception: 'NoneType' object is not subscriptable
+Error: 512570
+i: 9367
+Exception: 'NoneType' object is not subscriptable
+Error: 544731
+i: 9366
+Exception: 'NoneType' object is not subscriptable
+Error: 544730
+i: 9365
+Exception: 'NoneType' object is not subscriptable
+Error: 544727
+i: 9364
+Exception: 'NoneType' object is not subscriptable
+Error: 544726
+i: 9363
+Exception: 'NoneType' object is not subscriptable
+Error: 544687
+i: 9362
+Exception: 'NoneType' object is not subscriptable
+Error: 763756
+i: 9361
+Exception: 'NoneType' object is not subscriptable
+Error: 544740
+i: 9360
+Exception: 'NoneType' object is not subscriptable
+Error: 544737
+i: 9359
+Exception: 'NoneType' object is not subscriptable
+Error: 763759
+i: 9358
+Exception: 'NoneType' object is not subscriptable
+Error: 763758
+i: 9357
+Exception: 'NoneType' object is not subscriptable
+Error: 544734
+i: 9356
+Exception: 'NoneType' object is not subscriptable
+Error: 763767
+i: 9355
+Exception: 'NoneType' object is not subscriptable
+Error: 763765
+i: 9354
+Exception: 'NoneType' object is not subscriptable
+Error: 763771
+i: 9353
+Exception: 'NoneType' object is not subscriptable
+Error: 763770
+i: 9352
+Exception: 'NoneType' object is not subscriptable
+Error: 570367
+i: 9351
+Exception: 'NoneType' object is not subscriptable
+Error: 763769
+i: 9350
+Exception: 'NoneType' object is not subscriptable
+Error: 763762
+i: 9349
+Exception: 'NoneType' object is not subscriptable
+Error: 763763
+i: 9348
+Exception: 'NoneType' object is not subscriptable
+Error: 763921
+i: 9347
+Exception: 'NoneType' object is not subscriptable
+Error: 763920
+i: 9346
+Exception: 'NoneType' object is not subscriptable
+Error: 763778
+i: 9345
+Exception: 'NoneType' object is not subscriptable
+Error: 763776
+i: 9344
+Exception: 'NoneType' object is not subscriptable
+Error: 763775
+i: 9343
+Exception: 'NoneType' object is not subscriptable
+Error: 763773
+i: 9342
+Exception: 'NoneType' object is not subscriptable
+Error: 763933
+i: 9341
+Exception: 'NoneType' object is not subscriptable
+Error: 763926
+i: 9340
+Exception: 'NoneType' object is not subscriptable
+Error: 763925
+i: 9339
+Exception: 'NoneType' object is not subscriptable
+Error: 763923
+i: 9338
+Exception: 'NoneType' object is not subscriptable
+Error: 763918
+i: 9337
+Exception: 'NoneType' object is not subscriptable
+Error: 763941
+i: 9336
+Exception: 'NoneType' object is not subscriptable
+Error: 763938
+i: 9335
+Exception: 'NoneType' object is not subscriptable
+Error: 763939
+i: 9334
+Exception: 'NoneType' object is not subscriptable
+Error: 763936
+i: 9333
+Exception: 'NoneType' object is not subscriptable
+Error: 763935
+i: 9332
+Exception: 'NoneType' object is not subscriptable
+Error: 763931
+i: 9331
+Exception: 'NoneType' object is not subscriptable
+Error: 763929
+i: 9330
+Exception: 'NoneType' object is not subscriptable
+Error: 763928
+i: 9329
+Exception: 'NoneType' object is not subscriptable
+Error: 763943
+i: 9328
+Exception: 'NoneType' object is not subscriptable
+Error: 763949
+i: 9327
+Exception: 'NoneType' object is not subscriptable
+Error: 763947
+i: 9326
+Exception: 'NoneType' object is not subscriptable
+Error: 763945
+i: 9325
+Exception: 'NoneType' object is not subscriptable
+Error: 763956
+i: 9322
+Exception: 'NoneType' object is not subscriptable
+Error: 763954
+i: 9321
+Exception: 'NoneType' object is not subscriptable
+Error: 763953
+i: 9320
+Exception: 'NoneType' object is not subscriptable
+Error: 763951
+i: 9319
+Exception: 'NoneType' object is not subscriptable
+Error: 763960
+i: 9318
+Exception: 'NoneType' object is not subscriptable
+Error: 763959
+i: 9317
+Exception: 'NoneType' object is not subscriptable
+Error: 763964
+i: 9316
+Exception: 'NoneType' object is not subscriptable
+Error: 763962
+i: 9315
+Exception: 'NoneType' object is not subscriptable
+Error: 764016
+i: 9314
+Exception: 'NoneType' object is not subscriptable
+Error: 764004
+i: 9313
+Exception: 'NoneType' object is not subscriptable
+Error: 764015
+i: 9311
+Exception: 'NoneType' object is not subscriptable
+Error: 764006
+i: 9309
+Exception: 'NoneType' object is not subscriptable
+Error: 766761
+i: 9308
+Exception: 'NoneType' object is not subscriptable
+Error: 764028
+i: 9307
+Exception: 'NoneType' object is not subscriptable
+Error: 764027
+i: 9306
+Exception: 'NoneType' object is not subscriptable
+Error: 764025
+i: 9305
+Exception: 'NoneType' object is not subscriptable
+Error: 764018
+i: 9304
+Exception: 'NoneType' object is not subscriptable
+Error: 772543
+i: 9303
+Exception: 'NoneType' object is not subscriptable
+Error: 777949
+i: 9302
+Exception: 'NoneType' object is not subscriptable
+Error: 772542
+i: 9301
+Exception: 'NoneType' object is not subscriptable
+Error: 772545
+i: 9300
+Exception: 'NoneType' object is not subscriptable
+Error: 770393
+i: 9299
+Exception: 'NoneType' object is not subscriptable
+Error: 772537
+i: 9298
+Exception: 'NoneType' object is not subscriptable
+Error: 777952
+i: 9296
+Exception: 'NoneType' object is not subscriptable
+Error: 777955
+i: 9295
+Exception: 'NoneType' object is not subscriptable
+Error: 782794
+i: 9294
+Exception: 'NoneType' object is not subscriptable
+Error: 777954
+i: 9293
+Exception: 'NoneType' object is not subscriptable
+Error: 777951
+i: 9292
+Exception: 'NoneType' object is not subscriptable
+Error: 782791
+i: 9291
+Exception: 'NoneType' object is not subscriptable
+Error: 782793
+i: 9290
+Exception: 'NoneType' object is not subscriptable
+Error: 846155
+i: 9289
+Exception: 'NoneType' object is not subscriptable
+Error: 846272
+i: 9287
+Exception: 'NoneType' object is not subscriptable
+Error: 782796
+i: 9286
+Exception: 'NoneType' object is not subscriptable
+Error: 846154
+i: 9285
+Exception: 'NoneType' object is not subscriptable
+Error: 846274
+i: 9284
+Exception: 'NoneType' object is not subscriptable
+Error: 941398
+i: 9283
+Exception: 'NoneType' object is not subscriptable
+Error: 941391
+i: 9282
+Exception: 'NoneType' object is not subscriptable
+Error: 941394
+i: 9281
+Exception: 'NoneType' object is not subscriptable
+Error: 941393
+i: 9280
+Exception: 'NoneType' object is not subscriptable
+Error: 941396
+i: 9279
+Exception: 'NoneType' object is not subscriptable
+Error: 859356
+i: 9278
+Exception: 'NoneType' object is not subscriptable
+Error: 941400
+i: 9277
+Exception: 'NoneType' object is not subscriptable
+Error: 941405
+i: 9276
+Exception: 'NoneType' object is not subscriptable
+Error: 941404
+i: 9275
+Exception: 'NoneType' object is not subscriptable
+Error: 941401
+i: 9274
+Exception: 'NoneType' object is not subscriptable
+Error: 941403
+i: 9273
+Exception: 'NoneType' object is not subscriptable
+Error: 964681
+i: 9272
+Exception: 'NoneType' object is not subscriptable
+Error: 964693
+i: 9271
+Exception: 'NoneType' object is not subscriptable
+Error: 964691
+i: 9270
+Exception: 'NoneType' object is not subscriptable
+Error: 964689
+i: 9269
+Exception: 'NoneType' object is not subscriptable
+Error: 964688
+i: 9268
+Exception: 'NoneType' object is not subscriptable
+Error: 964686
+i: 9267
+Exception: 'NoneType' object is not subscriptable
+Error: 964684
+i: 9266
+Exception: 'NoneType' object is not subscriptable
+Error: 964683
+i: 9265
+Exception: 'NoneType' object is not subscriptable
+Error: 953650
+i: 9264
+Exception: 'NoneType' object is not subscriptable
+Error: 953648
+i: 9263
+Exception: 'NoneType' object is not subscriptable
+Error: 949100
+i: 9262
+Exception: 'NoneType' object is not subscriptable
+Error: 949098
+i: 9261
+Exception: 'NoneType' object is not subscriptable
+Error: 948945
+i: 9260
+Exception: 'NoneType' object is not subscriptable
+Error: 948944
+i: 9259
+Exception: 'NoneType' object is not subscriptable
+Error: 953698
+i: 9255
+Exception: 'NoneType' object is not subscriptable
+Error: 958080
+i: 9254
+Exception: 'NoneType' object is not subscriptable
+Error: 962074
+i: 9253
+Exception: 'NoneType' object is not subscriptable
+Error: 962073
+i: 9252
+Exception: 'NoneType' object is not subscriptable
+Error: 964695
+i: 9251
+Exception: 'NoneType' object is not subscriptable
+Error: 962071
+i: 9250
+Exception: 'NoneType' object is not subscriptable
+Error: 962076
+i: 9249
+Exception: 'NoneType' object is not subscriptable
+Error: 966014
+i: 9248
+Exception: 'NoneType' object is not subscriptable
+Error: 966011
+i: 9247
+Exception: 'NoneType' object is not subscriptable
+Error: 985602
+i: 9246
+Exception: 'NoneType' object is not subscriptable
+Error: 985601
+i: 9245
+Exception: 'NoneType' object is not subscriptable
+Error: 967731
+i: 9244
+Exception: 'NoneType' object is not subscriptable
+Error: 966010
+i: 9243
+Exception: 'NoneType' object is not subscriptable
+Error: 966013
+i: 9242
+Exception: 'NoneType' object is not subscriptable
+Error: 985606
+i: 9240
+Exception: 'NoneType' object is not subscriptable
+Error: 985604
+i: 9239
+Exception: 'NoneType' object is not subscriptable
+Error: 985609
+i: 9238
+Exception: 'NoneType' object is not subscriptable
+Error: 985611
+i: 9237
+Exception: 'NoneType' object is not subscriptable
+Error: 985618
+i: 9236
+Exception: 'NoneType' object is not subscriptable
+Error: 985620
+i: 9235
+Exception: 'NoneType' object is not subscriptable
+Error: 985615
+i: 9234
+Exception: 'NoneType' object is not subscriptable
+Error: 985613
+i: 9233
+Exception: 'NoneType' object is not subscriptable
+Error: 985617
+i: 9232
+Exception: 'NoneType' object is not subscriptable
+Error: 985625
+i: 9231
+Exception: 'NoneType' object is not subscriptable
+Error: 991110
+i: 9230
+Exception: 'NoneType' object is not subscriptable
+Error: 991109
+i: 9229
+Exception: 'NoneType' object is not subscriptable
+Error: 985622
+i: 9228
+Exception: 'NoneType' object is not subscriptable
+Error: 991107
+i: 9227
+Exception: 'NoneType' object is not subscriptable
+Error: 985624
+i: 9226
+Exception: 'NoneType' object is not subscriptable
+Error: 991103
+i: 9225
+Exception: 'NoneType' object is not subscriptable
+Error: 1008527
+i: 9224
+Exception: 'NoneType' object is not subscriptable
+Error: 991102
+i: 9223
+Exception: 'NoneType' object is not subscriptable
+Error: 991105
+i: 9222
+Exception: 'NoneType' object is not subscriptable
+Error: 1008529
+i: 9221
+Exception: 'NoneType' object is not subscriptable
+Error: 1008538
+i: 9220
+Exception: 'NoneType' object is not subscriptable
+Error: 1008531
+i: 9219
+Exception: 'NoneType' object is not subscriptable
+Error: 1008537
+i: 9218
+Exception: 'NoneType' object is not subscriptable
+Error: 1022349
+i: 9217
+Exception: 'NoneType' object is not subscriptable
+Error: 1008542
+i: 9216
+Exception: 'NoneType' object is not subscriptable
+Error: 1008540
+i: 9215
+Exception: 'NoneType' object is not subscriptable
+Error: 1022357
+i: 9214
+Exception: 'NoneType' object is not subscriptable
+Error: 1022351
+i: 9213
+Exception: 'NoneType' object is not subscriptable
+Error: 1022355
+i: 9212
+Exception: 'NoneType' object is not subscriptable
+Error: 1022353
+i: 9211
+Exception: 'NoneType' object is not subscriptable
+Error: 1022366
+i: 9210
+Exception: 'NoneType' object is not subscriptable
+Error: 1022364
+i: 9209
+Exception: 'NoneType' object is not subscriptable
+Error: 1022362
+i: 9208
+Exception: 'NoneType' object is not subscriptable
+Error: 1022360
+i: 9207
+Exception: 'NoneType' object is not subscriptable
+Error: 1022359
+i: 9206
+Exception: 'NoneType' object is not subscriptable
+Error: 1029385
+i: 9205
+Exception: 'NoneType' object is not subscriptable
+Error: 1029382
+i: 9204
+Exception: 'NoneType' object is not subscriptable
+Error: 1074070
+i: 9203
+Exception: 'NoneType' object is not subscriptable
+Error: 1029454
+i: 9202
+Exception: 'NoneType' object is not subscriptable
+Error: 1029381
+i: 9201
+Exception: 'NoneType' object is not subscriptable
+Error: 1074069
+i: 9200
+Exception: 'NoneType' object is not subscriptable
+Error: 1029384
+i: 9199
+Exception: 'NoneType' object is not subscriptable
+Error: 1670777
+i: 9198
+Exception: 'NoneType' object is not subscriptable
+Error: 1670776
+i: 9197
+Exception: 'NoneType' object is not subscriptable
+Error: 1670775
+i: 9196
+Exception: 'NoneType' object is not subscriptable
+Error: 1029387
+i: 9195
+Exception: 'NoneType' object is not subscriptable
+Error: 1041061
+i: 9194
+Exception: 'NoneType' object is not subscriptable
+Error: 1040583
+i: 9193
+Exception: 'NoneType' object is not subscriptable
+Error: 1041060
+i: 9192
+Exception: 'NoneType' object is not subscriptable
+Error: 1040616
+i: 9191
+Exception: 'NoneType' object is not subscriptable
+Error: 1670828
+i: 9190
+Exception: 'NoneType' object is not subscriptable
+Error: 1670827
+i: 9189
+Exception: 'NoneType' object is not subscriptable
+Error: 1040565
+i: 9186
+Exception: 'NoneType' object is not subscriptable
+Error: 1041064
+i: 9185
+Exception: 'NoneType' object is not subscriptable
+Error: 1041063
+i: 9184
+Exception: 'NoneType' object is not subscriptable
+Error: 1712971
+i: 9183
+Exception: 'NoneType' object is not subscriptable
+Error: 1052130
+i: 9182
+Exception: 'NoneType' object is not subscriptable
+Error: 1052129
+i: 9181
+Exception: 'NoneType' object is not subscriptable
+Error: 1046683
+i: 9180
+Exception: 'NoneType' object is not subscriptable
+Error: 1046681
+i: 9179
+Exception: 'NoneType' object is not subscriptable
+Error: 1071915
+i: 9178
+Exception: 'NoneType' object is not subscriptable
+Error: 1066329
+i: 9177
+Exception: 'NoneType' object is not subscriptable
+Error: 1066333
+i: 9176
+Exception: 'NoneType' object is not subscriptable
+Error: 1071914
+i: 9175
+Exception: 'NoneType' object is not subscriptable
+Error: 1066331
+i: 9174
+Exception: 'NoneType' object is not subscriptable
+Error: 1066325
+i: 9172
+Exception: 'NoneType' object is not subscriptable
+Error: 1066321
+i: 9171
+Exception: 'NoneType' object is not subscriptable
+Error: 1066324
+i: 9170
+Exception: 'NoneType' object is not subscriptable
+Error: 1066349
+i: 9169
+Exception: 'NoneType' object is not subscriptable
+Error: 1066320
+i: 9168
+Exception: 'NoneType' object is not subscriptable
+Error: 1066327
+i: 9167
+Exception: 'NoneType' object is not subscriptable
+Error: 1066323
+i: 9166
+Exception: 'NoneType' object is not subscriptable
+Error: 1066347
+i: 9165
+Exception: 'NoneType' object is not subscriptable
+Error: 1066343
+i: 9164
+Exception: 'NoneType' object is not subscriptable
+Error: 1066341
+i: 9163
+Exception: 'NoneType' object is not subscriptable
+Error: 1066345
+i: 9162
+Exception: 'NoneType' object is not subscriptable
+Error: 1066336
+i: 9161
+Exception: 'NoneType' object is not subscriptable
+Error: 1071930
+i: 9160
+Exception: 'NoneType' object is not subscriptable
+Error: 1066339
+i: 9159
+Exception: 'NoneType' object is not subscriptable
+Error: 1066335
+i: 9158
+Exception: 'NoneType' object is not subscriptable
+Error: 1071929
+i: 9157
+Exception: 'NoneType' object is not subscriptable
+Error: 1071932
+i: 9156
+Exception: 'NoneType' object is not subscriptable
+Error: 1066338
+i: 9155
+Exception: 'NoneType' object is not subscriptable
+Error: 1071927
+i: 9154
+Exception: 'NoneType' object is not subscriptable
+Error: 1071922
+i: 9153
+Exception: 'NoneType' object is not subscriptable
+Error: 1071924
+i: 9152
+Exception: 'NoneType' object is not subscriptable
+Error: 1071917
+i: 9151
+Exception: 'NoneType' object is not subscriptable
+Error: 1071921
+i: 9150
+Exception: 'NoneType' object is not subscriptable
+Error: 1071926
+i: 9149
+Exception: 'NoneType' object is not subscriptable
+Error: 1071919
+i: 9148
+Exception: 'NoneType' object is not subscriptable
+Error: 1086454
+i: 9147
+Exception: 'NoneType' object is not subscriptable
+Error: 1086458
+i: 9146
+Exception: 'NoneType' object is not subscriptable
+Error: 1086456
+i: 9145
+Exception: 'NoneType' object is not subscriptable
+Error: 1086452
+i: 9144
+Exception: 'NoneType' object is not subscriptable
+Error: 1088430
+i: 9143
+Exception: 'NoneType' object is not subscriptable
+Error: 1088206
+i: 9141
+Exception: 'NoneType' object is not subscriptable
+Error: 1088429
+i: 9140
+Exception: 'NoneType' object is not subscriptable
+Error: 1088204
+i: 9139
+Exception: 'NoneType' object is not subscriptable
+Error: 1086449
+i: 9138
+Exception: 'NoneType' object is not subscriptable
+Error: 1088432
+i: 9137
+Exception: 'NoneType' object is not subscriptable
+Error: 1103083
+i: 9136
+Exception: 'NoneType' object is not subscriptable
+Error: 1088435
+i: 9135
+Exception: 'NoneType' object is not subscriptable
+Error: 1103082
+i: 9134
+Exception: 'NoneType' object is not subscriptable
+Error: 1093482
+i: 9133
+Exception: 'NoneType' object is not subscriptable
+Error: 1088434
+i: 9132
+Exception: 'NoneType' object is not subscriptable
+Error: 1103076
+i: 9131
+Exception: 'NoneType' object is not subscriptable
+Error: 1103073
+i: 9130
+Exception: 'NoneType' object is not subscriptable
+Error: 1103080
+i: 9129
+Exception: 'NoneType' object is not subscriptable
+Error: 1103078
+i: 9128
+Exception: 'NoneType' object is not subscriptable
+Error: 1103075
+i: 9127
+Exception: 'NoneType' object is not subscriptable
+Error: 1103042
+i: 9126
+Exception: 'NoneType' object is not subscriptable
+Error: 1103071
+i: 9125
+Exception: 'NoneType' object is not subscriptable
+Error: 1103041
+i: 9124
+Exception: 'NoneType' object is not subscriptable
+Error: 1103045
+i: 9123
+Exception: 'NoneType' object is not subscriptable
+Error: 1103044
+i: 9122
+Exception: 'NoneType' object is not subscriptable
+Error: 1103070
+i: 9121
+Exception: 'NoneType' object is not subscriptable
+Error: 1103040
+i: 9120
+Exception: 'NoneType' object is not subscriptable
+Error: 1103047
+i: 9119
+Exception: 'NoneType' object is not subscriptable
+Error: 1103049
+i: 9118
+Exception: 'NoneType' object is not subscriptable
+Error: 1113163
+i: 9117
+Exception: 'NoneType' object is not subscriptable
+Error: 1115546
+i: 9116
+Exception: 'NoneType' object is not subscriptable
+Error: 1113201
+i: 9115
+Exception: 'NoneType' object is not subscriptable
+Error: 1113162
+i: 9114
+Exception: 'NoneType' object is not subscriptable
+Error: 1115545
+i: 9113
+Exception: 'NoneType' object is not subscriptable
+Error: 1113165
+i: 9112
+Exception: 'NoneType' object is not subscriptable
+Error: 1119623
+i: 9111
+Exception: 'NoneType' object is not subscriptable
+Error: 1119622
+i: 9110
+Exception: 'NoneType' object is not subscriptable
+Error: 1119625
+i: 9109
+Exception: 'NoneType' object is not subscriptable
+Error: 1117695
+i: 9108
+Exception: 'NoneType' object is not subscriptable
+Error: 1117694
+i: 9107
+Exception: 'NoneType' object is not subscriptable
+Error: 1117663
+i: 9106
+Exception: 'NoneType' object is not subscriptable
+Error: 1279683
+i: 9105
+Exception: 'NoneType' object is not subscriptable
+Error: 1119604
+i: 9104
+Exception: 'NoneType' object is not subscriptable
+Error: 1119603
+i: 9103
+Exception: 'NoneType' object is not subscriptable
+Error: 1119606
+i: 9102
+Exception: 'NoneType' object is not subscriptable
+Error: 1119609
+i: 9101
+Exception: 'NoneType' object is not subscriptable
+Error: 1119608
+i: 9100
+Exception: 'NoneType' object is not subscriptable
+Error: 1125358
+i: 9099
+Exception: 'NoneType' object is not subscriptable
+Error: 1125361
+i: 9098
+Exception: 'NoneType' object is not subscriptable
+Error: 1125360
+i: 9097
+Exception: 'NoneType' object is not subscriptable
+Error: 1279681
+i: 9096
+Exception: 'NoneType' object is not subscriptable
+Error: 1279685
+i: 9095
+Exception: 'NoneType' object is not subscriptable
+Error: 1132513
+i: 9094
+Exception: 'NoneType' object is not subscriptable
+Error: 1132515
+i: 9093
+Exception: 'NoneType' object is not subscriptable
+Error: 1127024
+i: 9092
+Exception: 'NoneType' object is not subscriptable
+Error: 1140631
+i: 9090
+Exception: 'NoneType' object is not subscriptable
+Error: 1140630
+i: 9089
+Exception: 'NoneType' object is not subscriptable
+Error: 1138695
+i: 9088
+Exception: 'NoneType' object is not subscriptable
+Error: 1138694
+i: 9087
+Exception: 'NoneType' object is not subscriptable
+Error: 1137619
+i: 9086
+Exception: 'NoneType' object is not subscriptable
+Error: 1133943
+i: 9085
+Exception: 'NoneType' object is not subscriptable
+Error: 1133945
+i: 9084
+Exception: 'NoneType' object is not subscriptable
+Error: 1149636
+i: 9079
+Exception: 'NoneType' object is not subscriptable
+Error: 1149635
+i: 9078
+Exception: 'NoneType' object is not subscriptable
+Error: 1149825
+i: 9077
+Exception: 'NoneType' object is not subscriptable
+Error: 1149638
+i: 9076
+Exception: 'NoneType' object is not subscriptable
+Error: 1147995
+i: 9075
+Exception: 'NoneType' object is not subscriptable
+Error: 1162512
+i: 9074
+Exception: 'NoneType' object is not subscriptable
+Error: 1162514
+i: 9073
+Exception: 'NoneType' object is not subscriptable
+Error: 1164068
+i: 9072
+Exception: 'NoneType' object is not subscriptable
+Error: 1164067
+i: 9071
+Exception: 'NoneType' object is not subscriptable
+Error: 1159404
+i: 9070
+Exception: 'NoneType' object is not subscriptable
+Error: 1159403
+i: 9069
+Exception: 'NoneType' object is not subscriptable
+Error: 1151587
+i: 9068
+Exception: 'NoneType' object is not subscriptable
+Error: 1151585
+i: 9067
+Exception: 'NoneType' object is not subscriptable
+Error: 1151586
+i: 9066
+Exception: 'NoneType' object is not subscriptable
+Error: 1167869
+i: 9065
+Exception: 'NoneType' object is not subscriptable
+Error: 1167868
+i: 9064
+Exception: 'NoneType' object is not subscriptable
+Error: 1167921
+i: 9063
+Exception: 'NoneType' object is not subscriptable
+Error: 1167922
+i: 9062
+Exception: 'NoneType' object is not subscriptable
+Error: 1167107
+i: 9061
+Exception: 'NoneType' object is not subscriptable
+Error: 1164070
+i: 9060
+Exception: 'NoneType' object is not subscriptable
+Error: 1183083
+i: 9058
+Exception: 'NoneType' object is not subscriptable
+Error: 1183082
+i: 9057
+Exception: 'NoneType' object is not subscriptable
+Error: 1183085
+i: 9056
+Exception: 'NoneType' object is not subscriptable
+Error: 1183087
+i: 9055
+Exception: 'NoneType' object is not subscriptable
+Error: 1182901
+i: 9054
+Exception: 'NoneType' object is not subscriptable
+Error: 1182891
+i: 9053
+Exception: 'NoneType' object is not subscriptable
+Error: 1187562
+i: 9050
+Exception: 'NoneType' object is not subscriptable
+Error: 1187565
+i: 9049
+Exception: 'NoneType' object is not subscriptable
+Error: 1187564
+i: 9048
+Exception: 'NoneType' object is not subscriptable
+Error: 1217836
+i: 9047
+Exception: 'NoneType' object is not subscriptable
+Error: 1217824
+i: 9046
+Exception: 'NoneType' object is not subscriptable
+Error: 1217807
+i: 9045
+Exception: 'NoneType' object is not subscriptable
+Error: 1226693
+i: 9044
+Exception: 'NoneType' object is not subscriptable
+Error: 1226695
+i: 9043
+Exception: 'NoneType' object is not subscriptable
+Error: 1217820
+i: 9042
+Exception: 'NoneType' object is not subscriptable
+Error: 1217822
+i: 9041
+Exception: 'NoneType' object is not subscriptable
+Error: 1232401
+i: 9040
+Exception: 'NoneType' object is not subscriptable
+Error: 1232403
+i: 9039
+Exception: 'NoneType' object is not subscriptable
+Error: 1226691
+i: 9037
+Exception: 'NoneType' object is not subscriptable
+Error: 1238611
+i: 9036
+Exception: 'NoneType' object is not subscriptable
+Error: 1241853
+i: 9035
+Exception: 'NoneType' object is not subscriptable
+Error: 1238610
+i: 9034
+Exception: 'NoneType' object is not subscriptable
+Error: 1238613
+i: 9033
+Exception: 'NoneType' object is not subscriptable
+Error: 1232049
+i: 9032
+Exception: 'NoneType' object is not subscriptable
+Error: 1247275
+i: 9031
+Exception: 'NoneType' object is not subscriptable
+Error: 1247277
+i: 9030
+Exception: 'NoneType' object is not subscriptable
+Error: 1241855
+i: 9028
+Exception: 'NoneType' object is not subscriptable
+Error: 1276161
+i: 9027
+Exception: 'NoneType' object is not subscriptable
+Error: 1276159
+i: 9026
+Exception: 'NoneType' object is not subscriptable
+Error: 1276157
+i: 9025
+Exception: 'NoneType' object is not subscriptable
+Error: 1267048
+i: 9023
+Exception: 'NoneType' object is not subscriptable
+Error: 1276167
+i: 9021
+Exception: 'NoneType' object is not subscriptable
+Error: 1276165
+i: 9020
+Exception: 'NoneType' object is not subscriptable
+Error: 1276163
+i: 9019
+Exception: 'NoneType' object is not subscriptable
+Error: 1295280
+i: 9018
+Exception: 'NoneType' object is not subscriptable
+Error: 1286467
+i: 9017
+Exception: 'NoneType' object is not subscriptable
+Error: 1286465
+i: 9015
+Exception: 'NoneType' object is not subscriptable
+Error: 1295288
+i: 9013
+Exception: 'NoneType' object is not subscriptable
+Error: 1295286
+i: 9012
+Exception: 'NoneType' object is not subscriptable
+Error: 1295284
+i: 9011
+Exception: 'NoneType' object is not subscriptable
+Error: 1295230
+i: 9010
+Exception: 'NoneType' object is not subscriptable
+Error: 1315446
+i: 9009
+Exception: 'NoneType' object is not subscriptable
+Error: 1315435
+i: 9008
+Exception: 'NoneType' object is not subscriptable
+Error: 1295292
+i: 9007
+Exception: 'NoneType' object is not subscriptable
+Error: 1322465
+i: 9005
+Exception: 'NoneType' object is not subscriptable
+Error: 1317488
+i: 9004
+Exception: 'NoneType' object is not subscriptable
+Error: 1315450
+i: 9002
+Exception: 'NoneType' object is not subscriptable
+Error: 1315448
+i: 9001
+Exception: 'NoneType' object is not subscriptable
+Error: 1331945
+i: 9000
+Exception: 'NoneType' object is not subscriptable
+Error: 1324171
+i: 8999
+Exception: 'NoneType' object is not subscriptable
+Error: 1324169
+i: 8998
+Exception: 'NoneType' object is not subscriptable
+Error: 1322467
+i: 8997
+Exception: 'NoneType' object is not subscriptable
+Error: 1345074
+i: 8996
+Exception: 'NoneType' object is not subscriptable
+Error: 1331943
+i: 8995
+Exception: 'NoneType' object is not subscriptable
+Error: 1331942
+i: 8994
+Exception: 'NoneType' object is not subscriptable
+Error: 1331967
+i: 8993
+Exception: 'NoneType' object is not subscriptable
+Error: 1331965
+i: 8992
+Exception: 'NoneType' object is not subscriptable
+Error: 1348480
+i: 8991
+Exception: 'NoneType' object is not subscriptable
+Error: 1348479
+i: 8990
+Exception: 'NoneType' object is not subscriptable
+Error: 1348477
+i: 8989
+Exception: 'NoneType' object is not subscriptable
+Error: 1348475
+i: 8988
+Exception: 'NoneType' object is not subscriptable
+Error: 1345072
+i: 8987
+Exception: 'NoneType' object is not subscriptable
+Error: 1361369
+i: 8985
+Exception: 'NoneType' object is not subscriptable
+Error: 1361368
+i: 8984
+Exception: 'NoneType' object is not subscriptable
+Error: 1353567
+i: 8983
+Exception: 'NoneType' object is not subscriptable
+Error: 1353566
+i: 8982
+Exception: 'NoneType' object is not subscriptable
+Error: 1353565
+i: 8981
+Exception: 'NoneType' object is not subscriptable
+Error: 1348484
+i: 8980
+Exception: 'NoneType' object is not subscriptable
+Error: 1348482
+i: 8979
+Exception: 'NoneType' object is not subscriptable
+Error: 1366316
+i: 8978
+Exception: 'NoneType' object is not subscriptable
+Error: 1366315
+i: 8977
+Exception: 'NoneType' object is not subscriptable
+Error: 1366314
+i: 8976
+Exception: 'NoneType' object is not subscriptable
+Error: 1361365
+i: 8974
+Exception: 'NoneType' object is not subscriptable
+Error: 1621713
+i: 8973
+Exception: 'NoneType' object is not subscriptable
+Error: 1361266
+i: 8972
+Exception: 'NoneType' object is not subscriptable
+Error: 1361265
+i: 8971
+Exception: 'NoneType' object is not subscriptable
+Error: 1353571
+i: 8969
+Exception: 'NoneType' object is not subscriptable
+Error: 1353570
+i: 8968
+Exception: 'NoneType' object is not subscriptable
+Error: 1353569
+i: 8967
+Exception: 'NoneType' object is not subscriptable
+Error: 1376143
+i: 8966
+Exception: 'NoneType' object is not subscriptable
+Error: 1621734
+i: 8965
+Exception: 'NoneType' object is not subscriptable
+Error: 1376141
+i: 8964
+Exception: 'NoneType' object is not subscriptable
+Error: 1376140
+i: 8963
+Exception: 'NoneType' object is not subscriptable
+Error: 1376139
+i: 8962
+Exception: 'NoneType' object is not subscriptable
+Error: 1366326
+i: 8960
+Exception: 'NoneType' object is not subscriptable
+Error: 1366325
+i: 8959
+Exception: 'NoneType' object is not subscriptable
+Error: 1366323
+i: 8958
+Exception: 'NoneType' object is not subscriptable
+Error: 1366322
+i: 8957
+Exception: 'NoneType' object is not subscriptable
+Error: 1366320
+i: 8956
+Exception: 'NoneType' object is not subscriptable
+Error: 1366319
+i: 8955
+Exception: 'NoneType' object is not subscriptable
+Error: 1366318
+i: 8954
+Exception: 'NoneType' object is not subscriptable
+Error: 1386857
+i: 8953
+Exception: 'NoneType' object is not subscriptable
+Error: 1386856
+i: 8952
+Exception: 'NoneType' object is not subscriptable
+Error: 1386855
+i: 8951
+Exception: 'NoneType' object is not subscriptable
+Error: 1386854
+i: 8950
+Exception: 'NoneType' object is not subscriptable
+Error: 1378357
+i: 8949
+Exception: 'NoneType' object is not subscriptable
+Error: 1378361
+i: 8947
+Exception: 'NoneType' object is not subscriptable
+Error: 1378360
+i: 8946
+Exception: 'NoneType' object is not subscriptable
+Error: 1378359
+i: 8945
+Exception: 'NoneType' object is not subscriptable
+Error: 1376147
+i: 8944
+Exception: 'NoneType' object is not subscriptable
+Error: 1376146
+i: 8943
+Exception: 'NoneType' object is not subscriptable
+Error: 1376145
+i: 8942
+Exception: 'NoneType' object is not subscriptable
+Error: 1403924
+i: 8941
+Exception: 'NoneType' object is not subscriptable
+Error: 1403923
+i: 8940
+Exception: 'NoneType' object is not subscriptable
+Error: 1399620
+i: 8939
+Exception: 'NoneType' object is not subscriptable
+Error: 1399619
+i: 8938
+Exception: 'NoneType' object is not subscriptable
+Error: 1399618
+i: 8937
+Exception: 'NoneType' object is not subscriptable
+Error: 1399617
+i: 8936
+Exception: 'NoneType' object is not subscriptable
+Error: 1399615
+i: 8935
+Exception: 'NoneType' object is not subscriptable
+Error: 1399614
+i: 8934
+Exception: 'NoneType' object is not subscriptable
+Error: 1399613
+i: 8933
+Exception: 'NoneType' object is not subscriptable
+Error: 1386861
+i: 8932
+Exception: 'NoneType' object is not subscriptable
+Error: 1386860
+i: 8931
+Exception: 'NoneType' object is not subscriptable
+Error: 1386859
+i: 8930
+Exception: 'NoneType' object is not subscriptable
+Error: 1414666
+i: 8929
+Exception: 'NoneType' object is not subscriptable
+Error: 1403926
+i: 8928
+Exception: 'NoneType' object is not subscriptable
+Error: 1399626
+i: 8927
+Exception: 'NoneType' object is not subscriptable
+Error: 1399624
+i: 8926
+Exception: 'NoneType' object is not subscriptable
+Error: 1399622
+i: 8925
+Exception: 'NoneType' object is not subscriptable
+Error: 1459230
+i: 8924
+Exception: 'NoneType' object is not subscriptable
+Error: 1459228
+i: 8923
+Exception: 'NoneType' object is not subscriptable
+Error: 1414664
+i: 8922
+Exception: 'NoneType' object is not subscriptable
+Error: 1459234
+i: 8921
+Exception: 'NoneType' object is not subscriptable
+Error: 1459232
+i: 8920
+Exception: 'NoneType' object is not subscriptable
+Error: 1455706
+i: 8919
+Exception: 'NoneType' object is not subscriptable
+Error: 1459240
+i: 8918
+Exception: 'NoneType' object is not subscriptable
+Error: 1459238
+i: 8917
+Exception: 'NoneType' object is not subscriptable
+Error: 1459236
+i: 8916
+Exception: 'NoneType' object is not subscriptable
+Error: 1472988
+i: 8915
+Exception: 'NoneType' object is not subscriptable
+Error: 1472985
+i: 8914
+Exception: 'NoneType' object is not subscriptable
+Error: 1472986
+i: 8913
+Exception: 'NoneType' object is not subscriptable
+Error: 1459326
+i: 8912
+Exception: 'NoneType' object is not subscriptable
+Error: 1496357
+i: 8911
+Exception: 'NoneType' object is not subscriptable
+Error: 174808
+i: 8775
+Exception: ord() expected string of length 1, but int found
+Error: 174807
+i: 8774
+Exception: ord() expected string of length 1, but int found
+Error: 174805
+i: 8772
+Exception: ord() expected string of length 1, but int found
+Error: 174804
+i: 8771
+Exception: ord() expected string of length 1, but int found
+Error: 174803
+i: 8770
+Exception: ord() expected string of length 1, but int found
+Error: 174802
+i: 8769
+Exception: ord() expected string of length 1, but int found
+Error: 273858
+i: 8767
+Exception: ord() expected string of length 1, but int found
+Error: 174816
+i: 8766
+Exception: ord() expected string of length 1, but int found
+Error: 174815
+i: 8765
+Exception: ord() expected string of length 1, but int found
+Error: 174814
+i: 8764
+Exception: ord() expected string of length 1, but int found
+Error: 174813
+i: 8763
+Exception: ord() expected string of length 1, but int found
+Error: 174812
+i: 8762
+Exception: ord() expected string of length 1, but int found
+Error: 174811
+i: 8761
+Exception: ord() expected string of length 1, but int found
+Error: 174810
+i: 8760
+Exception: ord() expected string of length 1, but int found
+Error: 182973
+i: 8758
+Exception: ord() expected string of length 1, but int found
+Error: 182972
+i: 8757
+Exception: ord() expected string of length 1, but int found
+Error: 182971
+i: 8756
+Exception: ord() expected string of length 1, but int found
+Error: 182970
+i: 8755
+Exception: ord() expected string of length 1, but int found
+Error: 182969
+i: 8754
+Exception: ord() expected string of length 1, but int found
+Error: 182968
+i: 8753
+Exception: ord() expected string of length 1, but int found
+Error: 182967
+i: 8752
+Exception: ord() expected string of length 1, but int found
+Error: 194311
+i: 8751
+Exception: ord() expected string of length 1, but int found
+Error: 194309
+i: 8750
+Exception: ord() expected string of length 1, but int found
+Error: 194306
+i: 8749
+Exception: ord() expected string of length 1, but int found
+Error: 194305
+i: 8748
+Exception: ord() expected string of length 1, but int found
+Error: 194301
+i: 8747
+Exception: ord() expected string of length 1, but int found
+Error: 194298
+i: 8746
+Exception: ord() expected string of length 1, but int found
+Error: 194296
+i: 8745
+Exception: ord() expected string of length 1, but int found
+Error: 194290
+i: 8744
+Exception: ord() expected string of length 1, but int found
+Error: 208162
+i: 8742
+Exception: ord() expected string of length 1, but int found
